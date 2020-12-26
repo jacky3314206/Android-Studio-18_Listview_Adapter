@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewAdapter</string>
+    <string name="Hw18_title">listView adapter用法</string>
+    <string name="Hw18_mag">嗨嗨哈囉!</string>
+</resources>
